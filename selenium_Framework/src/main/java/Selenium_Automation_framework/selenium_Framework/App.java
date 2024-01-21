@@ -10,4 +10,9 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    public void amit()
+    {
+    	System.out.print("this code in 2nd branch");
+    }
 }
